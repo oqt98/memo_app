@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "日記",
+    "content": "今日はメモ帳の勉強を始めた/選挙に行った",
+    "created_at": "2025-07-19 10:51"
+  },
+  {
+    "id": 2,
+    "category": "日記",
+    "content": "一覧表示まで作成を終えた",
+    "created_at": "2025-07-19 11:03"
+  },
+  {
+    "id": 3,
+    "category": "学習",
+    "content": "AIで出来てしまうが故に覚えられるか不安。逆に覚えなくてもAIで出来るからそこまで労力をかけるところではないのかな",
+    "created_at": "2025-07-19 11:04"
+  },
+  {
+    "id": 4,
+    "category": "予定",
+    "content": "たこ焼きの具材買う",
+    "created_at": "2025-07-19 11:20"
+  },
+  {
+    "id": 5,
+    "category": "予定",
+    "content": "選挙行く",
+    "created_at": "2025-07-19 11:20"
+  },
+  {
+    "id": 6,
+    "category": "予定",
+    "content": "引っ越しの予定立てる",
+    "created_at": "2025-07-19 11:20"
+  },
+  {
+    "id": 7,
+    "category": "予定",
+    "content": "映画見る",
+    "created_at": "2025-07-19 11:20"
+  },
+  {
+    "id": 8,
+    "category": "予定",
+    "content": "ランチ",
+    "created_at": "2025-07-19 11:46"
+  },
+  {
+    "id": 9,
+    "category": "旅行",
+    "content": "イタリア",
+    "created_at": "2025-07-19 11:58"
+  },
+  {
+    "id": 10,
+    "category": "旅行",
+    "content": "金沢",
+    "created_at": "2025-07-19 12:01"
+  },
+  {
+    "id": 11,
+    "category": "旅行",
+    "content": "ドイツ",
+    "created_at": "2025-07-19 12:02"
+  },
+  {
+    "id": 12,
+    "category": "予定",
+    "content": "昼寝",
+    "created_at": "2025-07-19 12:02"
+  }
+]
